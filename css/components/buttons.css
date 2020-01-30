@@ -1,0 +1,15 @@
+.btn-apply-now {
+  display: inline-block;
+  background-color: #6AD58B;
+  color: white;
+  padding: 20px;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  font-weight: lighter;
+}
+
+.btn-apply-now:hover {
+  background-color: #3ac162;
+  transition: 0.8s;
+}

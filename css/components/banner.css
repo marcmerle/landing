@@ -1,0 +1,9 @@
+.banner {
+  background-image: url(../../images/rumble.jpg);
+  display: flex;
+  background-position: top;
+  background-size: cover;
+  align-items: center;
+  height: 600px;
+  justify-content: center;
+}

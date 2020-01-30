@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  box-shadow: 0px 0px 42px -20px rgba(0,0,0,0.5);
+  padding: 20px;
+  width: 200px;
+  border: 1px solid lightgrey;
+}
+
+.card img {
+  width: 180px;
+  justify-content: center;
+  background-size: cover;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+.card h3 {
+  font-size: 16px;
+}
